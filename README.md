@@ -2,7 +2,7 @@
 This is the official implementation of the papaer (under review):  
 GCT-GF: A generative CNN-transformer for multi-modal multi-temporal gap filling of surface water probability  
 
-Please use *train.sh* and *test.sh* for train and test.  
+Please use *train.sh* and *test.sh* to train and test the algorithm.  
 
 ## Ackownledgment
 This research is based on the open source codes as follows:  
