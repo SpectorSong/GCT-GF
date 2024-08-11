@@ -6,8 +6,8 @@ Please use *train.sh* and *test.sh* for train and test.
 
 ## Ackownledgment
 This research is based on the open source codes as follows:  
-SEN12-MS-CR-TS: [https://github.com/PatrickTUM/SEN12MS-CR-TS.git]
-Gated Convolution: [https://github.com/JiahuiYu/generative_inpainting.git]
-Restormer: [https://github.com/swz30/Restormer.git]
+**SEN12-MS-CR-TS**: [https://github.com/PatrickTUM/SEN12MS-CR-TS.git]  
+**Gated Convolution**: [https://github.com/JiahuiYu/generative_inpainting.git]  
+**Restormer**: [https://github.com/swz30/Restormer.git]  
 Thank these authors for their contributions to the community.
 
